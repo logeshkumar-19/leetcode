@@ -1,0 +1,16 @@
+class Solution {
+    public String processStr(String s) {
+        StringBuilder lk= new StringBuilder();
+        for(char c:s.toCharArray()){
+            if(Character.isLetter(c)) lk.append(c);
+            else if(c=='#') lk.append(lk.toString());
+            else if(c=='*') {
+                if(lk.length()>0) lk.deleteCharAt(lk.length()-1);
+            }
+            else lk.reverse();
+
+        }
+        return lk.toString();
+        
+    }
+}
