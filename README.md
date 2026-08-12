@@ -5,4 +5,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1148-article-views-i](https://github.com/logeshkumar-19/leetcode/tree/master/1148-article-views-i) |
+## Array
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/logeshkumar-19/leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/logeshkumar-19/leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/logeshkumar-19/leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/logeshkumar-19/leetcode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
