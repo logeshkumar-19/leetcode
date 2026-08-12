@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/logeshkumar-19/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1652-defuse-the-bomb](https://github.com/logeshkumar-19/leetcode/tree/master/1652-defuse-the-bomb) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/logeshkumar-19/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1652-defuse-the-bomb](https://github.com/logeshkumar-19/leetcode/tree/master/1652-defuse-the-bomb) |
 ## Prefix Sum
 |  |
 | ------- |
